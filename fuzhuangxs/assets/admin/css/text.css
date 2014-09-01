@@ -1,0 +1,149 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+body {
+  font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+}
+
+pre,
+code {
+  font-family: 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+}
+
+hr {
+  border: 0 #ccc solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 19px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+  margin-bottom: 20px;
+}
+
+#templatemo_search form {
+	margin:0;
+	padding:0;
+}
+
+.txt_field {
+	float: right;
+	display: block;
+	height: 15px;
+	line-height: 15px;
+	width: 170px;
+	color: #ccc;
+	font-size: 12px;
+	padding: 5px;
+	font-variant: normal;
+	border: #ccc solid 1px;
+	border-radius: 6px;
+	background: none;
+	border-spacing: none;
+	margin-top: 0;
+	
+}
+
+.sub_btn {
+	float: right;
+	display: block;
+	color: #fff;
+	height: 25px;
+	width: 38px;
+	font-size: 11px;
+	font-weight: 700;
+	line-height: 26px;
+	cursor: pointer;
+	border: #ccc solid 1px;
+	background: none;
+	/*outline: none;*/
+}
+*:focus { outline: none; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
